@@ -1,0 +1,17 @@
+{
+    "admin": {
+        "hash": "4a7c8714d52a167bbadfb229ee643833b20fa9e7e679f20049b26eb8e2c9a43e",
+        "salt": "f4ce68cef3dfd7a3e7eb2cd559f539a0",
+        "registered": "2026-06-11 10:28:18"
+    },
+    "user1": {
+        "hash": "f8afc1cec76376c03eb8a531f1f1d64b5e4454f5f5536451a570145f4b420617",
+        "salt": "6bf2e2693705513c14c9a7faa67d7024",
+        "registered": "2026-06-11 10:28:18"
+    },
+    "student": {
+        "hash": "35b728a9815deeb08c4695f013844235335ca509a2d29b087f8fb92972a74ed3",
+        "salt": "0f504faadcc926d7181e0b6327d1d328",
+        "registered": "2026-06-11 10:28:18"
+    }
+}
